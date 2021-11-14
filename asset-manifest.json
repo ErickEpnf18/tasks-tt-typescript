@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tasks-tt-typescript/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/tasks-tt-typescript/static/js/main.cca6ec6a.chunk.js",
+    "main.js.map": "/tasks-tt-typescript/static/js/main.cca6ec6a.chunk.js.map",
+    "runtime-main.js": "/tasks-tt-typescript/static/js/runtime-main.759a53a0.js",
+    "runtime-main.js.map": "/tasks-tt-typescript/static/js/runtime-main.759a53a0.js.map",
+    "static/css/2.829c4719.chunk.css": "/tasks-tt-typescript/static/css/2.829c4719.chunk.css",
+    "static/js/2.7c7f2add.chunk.js": "/tasks-tt-typescript/static/js/2.7c7f2add.chunk.js",
+    "static/js/2.7c7f2add.chunk.js.map": "/tasks-tt-typescript/static/js/2.7c7f2add.chunk.js.map",
+    "static/js/3.d2592c20.chunk.js": "/tasks-tt-typescript/static/js/3.d2592c20.chunk.js",
+    "static/js/3.d2592c20.chunk.js.map": "/tasks-tt-typescript/static/js/3.d2592c20.chunk.js.map",
+    "index.html": "/tasks-tt-typescript/index.html",
+    "static/css/2.829c4719.chunk.css.map": "/tasks-tt-typescript/static/css/2.829c4719.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/tasks-tt-typescript/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7c7f2add.chunk.js.LICENSE.txt": "/tasks-tt-typescript/static/js/2.7c7f2add.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.759a53a0.js",
+    "static/css/2.829c4719.chunk.css",
+    "static/js/2.7c7f2add.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.cca6ec6a.chunk.js"
+  ]
+}
